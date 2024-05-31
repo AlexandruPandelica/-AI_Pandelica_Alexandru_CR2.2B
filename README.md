@@ -36,6 +36,3 @@ IntelliJ va compila proiectul și va rezolva toate dependențele.
 Deschide clasa principală cu metoda main, de obicei numită ceva de genul Main.java.
 Click dreapta pe fișierul Main.java și selectează Run 'Main'.
 Proiectul va începe să ruleze și vei putea vedea rezultatele în consola IntelliJ.
-Note
-Dacă întâmpini probleme legate de dependențe sau configurarea proiectului, verifică dacă toate dependențele specificate în fișierele de configurare (de exemplu, pom.xml pentru proiectele Maven sau build.gradle pentru proiectele Gradle) sunt corect rezolvate.
-Pentru suport suplimentar, consultă documentația IntelliJ IDEA sau deschide un issue în acest repository.
